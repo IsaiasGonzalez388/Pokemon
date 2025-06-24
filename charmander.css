@@ -1,0 +1,17 @@
+.card-title {
+  text-align: center;
+  justify-content: center;
+}
+.peso {
+  font-size: 20px;
+  text-align: center;
+}
+.altura {
+  font-size: 20px;
+  text-align: center;
+}
+.card {
+  top: 70px;
+}
+.card-body {
+}
